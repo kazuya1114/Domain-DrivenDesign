@@ -45,3 +45,4 @@
 - [ユビキタス言語](https://zenn.dev/leaner_dev/articles/20210922-ubiquitous-language)
 - [ドメイン駆動設計参考１](https://www.seplus.jp/dokushuzemi/blog/2022/06/get_started_ddd_patterns.html)
 - [ドメイン駆動設計参考２](https://note.com/shift_tech/n/n1e91c68b1473)
+- [リポジトリパターン](https://zenn.dev/kohii/articles/e4f325ed011d8)
