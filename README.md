@@ -57,5 +57,6 @@
 - [ユビキタス言語](https://zenn.dev/leaner_dev/articles/20210922-ubiquitous-language)
 - [ドメイン駆動設計参考１](https://www.seplus.jp/dokushuzemi/blog/2022/06/get_started_ddd_patterns.html)
 - [ドメイン駆動設計参考２](https://note.com/shift_tech/n/n1e91c68b1473)
-- [リポジトリパターン](https://zenn.dev/kohii/articles/e4f325ed011db8)
+- [リポジトリパターン参考１](https://zenn.dev/kohii/articles/e4f325ed011db8)
+- [リポジトリパターン参考２](https://qiita.com/mikesorae/items/ff8192fb9cf106262dbf)
 - [ドメイン駆動設計パッケージ構成](https://zenn.dev/morio_pg/articles/16777261720294644011)
