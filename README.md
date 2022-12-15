@@ -62,3 +62,4 @@
 - [集約について](https://zenn.dev/takashi_onawa/articles/4648332c035d97)
 - [ドメイン駆動設計パッケージ構成](https://zenn.dev/morio_pg/articles/16777261720294644011)
 - [ドメイン駆動設計+Repositoryサンプル](https://poppingcarp.com/ddd-repository-sample-program/)
+- [ドメイン駆動設計導入事例](https://techblog.yahoo.co.jp/entry/2021011230061115/)
