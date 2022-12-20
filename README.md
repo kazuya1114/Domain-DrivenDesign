@@ -78,3 +78,4 @@
 - [ドメイン駆動設計+Repositoryサンプル１](https://poppingcarp.com/ddd-repository-sample-program/)
 - [ドメイン駆動設計+Repositoryサンプル２](https://qiita.com/ynstkt/items/ddbb905adf0583121530)
 - [ドメイン駆動設計導入事例](https://techblog.yahoo.co.jp/entry/2021011230061115/)
+- [インターフェースの役割と利点](https://qiita.com/yutorisan/items/d28386f168f2f3ab166d)
