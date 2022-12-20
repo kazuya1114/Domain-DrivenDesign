@@ -74,6 +74,7 @@
 - [リポジトリパターン参考２](https://qiita.com/mikesorae/items/ff8192fb9cf106262dbf)
 - [集約について](https://zenn.dev/takashi_onawa/articles/4648332c035d97)
 - [ドメイン駆動設計パッケージ構成](https://zenn.dev/morio_pg/articles/16777261720294644011)
+- [ドメイン駆動設計パッケージ構成(オニオンアーキテクチャ)](https://qiita.com/Yuuki557/items/b9e456f9841f3335d574)
 - [ドメイン駆動設計+Repositoryサンプル１](https://poppingcarp.com/ddd-repository-sample-program/)
 - [ドメイン駆動設計+Repositoryサンプル２](https://qiita.com/ynstkt/items/ddbb905adf0583121530)
 - [ドメイン駆動設計導入事例](https://techblog.yahoo.co.jp/entry/2021011230061115/)
