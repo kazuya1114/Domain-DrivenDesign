@@ -72,7 +72,6 @@
 - [ドメイン駆動設計参考２](https://note.com/shift_tech/n/n1e91c68b1473)
 - [リポジトリパターン参考１](https://zenn.dev/kohii/articles/e4f325ed011db8)
 - [リポジトリパターン参考２](https://qiita.com/mikesorae/items/ff8192fb9cf106262dbf)
-- [MVVM + Repository](https://gaprot.jp/2021/09/16/flutter-architecture-mvvm/)
 - [集約について](https://zenn.dev/takashi_onawa/articles/4648332c035d97)
 - [ドメイン駆動設計パッケージ構成](https://zenn.dev/morio_pg/articles/16777261720294644011)
 - [ドメイン駆動設計パッケージ構成(オニオンアーキテクチャ)](https://qiita.com/Yuuki557/items/b9e456f9841f3335d574)
